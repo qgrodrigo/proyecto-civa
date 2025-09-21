@@ -1,0 +1,15 @@
+.card {
+  border: 1px solid #ccc;
+  padding: 12px;
+  margin: 10px;
+  border-radius: 8px;
+  transition: box-shadow 0.2s ease;
+  cursor: pointer;
+}
+.card:hover {
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+.title {
+  margin-bottom: 8px;
+  color: #333;
+}

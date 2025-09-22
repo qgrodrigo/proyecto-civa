@@ -1,4 +1,3 @@
-// src/components/BusCard.jsx
 import styles from './BusCard.module.css';
 
 export default function BusCard({ bus, onClick, showEstado = true }) {

@@ -1,4 +1,3 @@
-// src/components/MainLayout.jsx
 import styles from './MainLayout.module.css';
 import { Link } from 'react-router-dom';
 
